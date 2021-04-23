@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+namespace Vanthao03596\LaravelForgotPasswordCode\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
